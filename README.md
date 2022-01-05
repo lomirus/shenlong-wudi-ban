@@ -1,1 +1,1 @@
-https://github.com/lomirus/shenlong-wudi-ban.git
+Zàixiàn dìzhǐ: https://lomirus.github.io/shenlong-wudi-ban/
